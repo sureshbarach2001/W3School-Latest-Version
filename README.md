@@ -42,7 +42,7 @@ or
 
 - 👨‍💻 All of my projects are available at [https://github.com/sureshbarach2001](https://github.com/sureshbarach2001)
 
-- My Portfolio --> Click THIS PNG { <a href="https://sureshbarach2001.freewebhostmost.com"><img src="https://github.com/sureshbarach2001/Personal-Portfolio/blob/main/images/favicon.png" alt="sureshbarach2001" /></a>}
+- My Portfolio -->  [https://sureshbarach2001.freewebhostmost.com](https://sureshbarach2001.freewebhostmost.com)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, C++, Data-Base**
 
